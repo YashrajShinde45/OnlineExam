@@ -1,1 +1,22 @@
 
+body {
+  font-family: Arial;
+  background: #eee;
+  text-align: center;
+}
+.box {
+  background: white;
+  width: 300px;
+  margin: 80px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+button {
+  background: blue;
+  color: white;
+  padding: 10px 25px;
+  border: none;
+  cursor: pointer;
+  margin: 10px;
+}
+
